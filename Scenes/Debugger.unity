@@ -516,6 +516,10 @@ PrefabInstance:
       propertyPath: m_SizeDelta.x
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6496534826202080588, guid: 25f704ef3467349ac880988154e2e397, type: 3}
+      propertyPath: m_Text
+      value: "\u590D\u5236\u6210\u529F\uFF01\uFF01?"
+      objectReference: {fileID: 0}
     - target: {fileID: 6496534826202081034, guid: 25f704ef3467349ac880988154e2e397, type: 3}
       propertyPath: m_SizeDelta.x
       value: 0
